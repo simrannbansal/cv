@@ -1,0 +1,6 @@
+The file was blocked since it contained data that is not allowed to be downloaded.
+----------------------------------------------------------------------------------
+Original file name: Welcome Mailer - GGN 3.pdf
+Original file size in bytes: 1050957
+----------------------------------------------------------------------------------
+Blocked by Microsoft Cloud App Security
